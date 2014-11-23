@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="6252" systemVersion="14B25" minimumToolsVersion="Automatic" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="Merchant" representedClassName="Merchant" syncable="YES">
+        <attribute name="categories" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="email" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="fullName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="mobile" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="organization" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="organizationId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="region" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Procurements" representedClassName="Procurements" syncable="YES">
+        <attribute name="awardedToMe" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="awardedToName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="awardedToReference" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="bidAmount" optional="YES" attributeType="Decimal" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="bidCategory" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="bidStatus" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="closingDate" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="dateOfPublication" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="dateOfSubmission" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="geotag" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="procuringEntity" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="referenceNumber" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="remarks" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="title" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Merchant" positionX="-54" positionY="-9" width="128" height="150"/>
+        <element name="Procurements" positionX="-36" positionY="9" width="128" height="255"/>
+    </elements>
+</model>

@@ -1,0 +1,6 @@
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
+HEADER_SEARCH_PATHS = "${PODS_ROOT}/Headers/Public" "${PODS_ROOT}/Headers/Public/DejalActivityView" "${PODS_ROOT}/Headers/Public/JSONModel" "${PODS_ROOT}/Headers/Public/MMPopLabel" "${PODS_ROOT}/Headers/Public/RHAddressBook" "${PODS_ROOT}/Headers/Public/SIAlertView"
+OTHER_CFLAGS = $(inherited) -isystem "${PODS_ROOT}/Headers/Public" -isystem "${PODS_ROOT}/Headers/Public/DejalActivityView" -isystem "${PODS_ROOT}/Headers/Public/JSONModel" -isystem "${PODS_ROOT}/Headers/Public/MMPopLabel" -isystem "${PODS_ROOT}/Headers/Public/RHAddressBook" -isystem "${PODS_ROOT}/Headers/Public/SIAlertView"
+OTHER_LDFLAGS = -ObjC -l"Pods-TestRun-DejalActivityView" -l"Pods-TestRun-JSONModel" -l"Pods-TestRun-MMPopLabel" -l"Pods-TestRun-RHAddressBook" -l"Pods-TestRun-SIAlertView" -framework "AddressBook" -framework "AddressBookUI" -framework "CoreLocation" -framework "QuartzCore" -framework "UIKit"
+OTHER_LIBTOOLFLAGS = $(OTHER_LDFLAGS)
+PODS_ROOT = ${SRCROOT}/Pods

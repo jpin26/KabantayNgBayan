@@ -1,0 +1,5 @@
+#include "Pods-TestRun-JSONModel.xcconfig"
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
+HEADER_SEARCH_PATHS = "${PODS_ROOT}/Headers/Build" "${PODS_ROOT}/Headers/Build/JSONModel" "${PODS_ROOT}/Headers/Public" "${PODS_ROOT}/Headers/Public/DejalActivityView" "${PODS_ROOT}/Headers/Public/JSONModel" "${PODS_ROOT}/Headers/Public/MMPopLabel" "${PODS_ROOT}/Headers/Public/RHAddressBook" "${PODS_ROOT}/Headers/Public/SIAlertView"
+OTHER_LDFLAGS = -ObjC
+PODS_ROOT = ${SRCROOT}
