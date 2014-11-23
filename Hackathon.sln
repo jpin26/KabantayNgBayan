@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Web Developer Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhilGepsDataProxy", "PhilGepsDataProxy\PhilGepsDataProxy.csproj", "{32872D0D-050A-43B7-B181-12818573FC4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhilGepsDataFetcher", "PhilGepsDataFetcher\PhilGepsDataFetcher.csproj", "{3038EE31-FBD3-4EA1-AED3-3AEA1940B96A}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "localhost", "http://localhost", "{632E231F-D4CE-4DFF-90F4-8D49BCB699CA}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "false"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost"
+		Debug.AspNetCompiler.PhysicalPath = "Hackathon\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost"
+		Release.AspNetCompiler.PhysicalPath = "Hackathon\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "Hackathon\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32872D0D-050A-43B7-B181-12818573FC4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32872D0D-050A-43B7-B181-12818573FC4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32872D0D-050A-43B7-B181-12818573FC4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32872D0D-050A-43B7-B181-12818573FC4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3038EE31-FBD3-4EA1-AED3-3AEA1940B96A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3038EE31-FBD3-4EA1-AED3-3AEA1940B96A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3038EE31-FBD3-4EA1-AED3-3AEA1940B96A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3038EE31-FBD3-4EA1-AED3-3AEA1940B96A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{632E231F-D4CE-4DFF-90F4-8D49BCB699CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{632E231F-D4CE-4DFF-90F4-8D49BCB699CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{632E231F-D4CE-4DFF-90F4-8D49BCB699CA}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{632E231F-D4CE-4DFF-90F4-8D49BCB699CA}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

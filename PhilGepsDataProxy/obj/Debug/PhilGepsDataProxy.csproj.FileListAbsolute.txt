@@ -1,0 +1,10 @@
+D:\sam\ZapSolutions\Hackathon\PhilGepsDataProxy\bin\PhilGepsDataProxy.dll
+D:\sam\ZapSolutions\Hackathon\PhilGepsDataProxy\bin\PhilGepsDataProxy.pdb
+D:\sam\ZapSolutions\Hackathon\PhilGepsDataProxy\bin\log4net.dll
+D:\sam\ZapSolutions\Hackathon\PhilGepsDataProxy\bin\MarkdownSharp.dll
+D:\sam\ZapSolutions\Hackathon\PhilGepsDataProxy\bin\PhilGepsDataFetcher.dll
+D:\sam\ZapSolutions\Hackathon\PhilGepsDataProxy\bin\RestSharp.dll
+D:\sam\ZapSolutions\Hackathon\PhilGepsDataProxy\bin\PhilGepsDataFetcher.pdb
+D:\sam\ZapSolutions\Hackathon\PhilGepsDataProxy\obj\Debug\ResolveAssemblyReference.cache
+D:\sam\ZapSolutions\Hackathon\PhilGepsDataProxy\obj\Debug\PhilGepsDataProxy.dll
+D:\sam\ZapSolutions\Hackathon\PhilGepsDataProxy\obj\Debug\PhilGepsDataProxy.pdb

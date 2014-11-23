@@ -1,0 +1,9 @@
+D:\temp\Hackathon\Event_Files\ZAP_SMSLibrary\TempService\bin\TempService.dll
+D:\temp\Hackathon\Event_Files\ZAP_SMSLibrary\TempService\bin\TempService.pdb
+D:\temp\Hackathon\Event_Files\ZAP_SMSLibrary\TempService\bin\ZAP_SMSLibrary.dll
+D:\temp\Hackathon\Event_Files\ZAP_SMSLibrary\TempService\bin\ZAP_SMSLibrary.pdb
+D:\temp\Hackathon\Event_Files\ZAP_SMSLibrary\TempService\obj\Debug\TempService.csprojResolveAssemblyReference.cache
+D:\temp\Hackathon\Event_Files\ZAP_SMSLibrary\TempService\obj\Debug\TempService.dll
+D:\temp\Hackathon\Event_Files\ZAP_SMSLibrary\TempService\obj\Debug\TempService.pdb
+D:\temp\Hackathon\Event_Files\ZAP_SMSLibrary\TempService\bin\GlobeLabsApi.dll
+D:\temp\Hackathon\Event_Files\ZAP_SMSLibrary\TempService\bin\Newtonsoft.Json.dll

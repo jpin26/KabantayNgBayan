@@ -1,0 +1,6 @@
+D:\sam\ZapSolutions\Hackathon\PhilGepsDataFetcher\bin\Debug\PhilGepsDataFetcher.dll
+D:\sam\ZapSolutions\Hackathon\PhilGepsDataFetcher\bin\Debug\PhilGepsDataFetcher.pdb
+D:\sam\ZapSolutions\Hackathon\PhilGepsDataFetcher\bin\Debug\RestSharp.dll
+D:\sam\ZapSolutions\Hackathon\PhilGepsDataFetcher\obj\Debug\ResolveAssemblyReference.cache
+D:\sam\ZapSolutions\Hackathon\PhilGepsDataFetcher\obj\Debug\PhilGepsDataFetcher.dll
+D:\sam\ZapSolutions\Hackathon\PhilGepsDataFetcher\obj\Debug\PhilGepsDataFetcher.pdb
